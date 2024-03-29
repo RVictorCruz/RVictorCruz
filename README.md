@@ -5,6 +5,7 @@
 
 ![Raimundo Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=RVictorCruz&show_icons=true&theme=dark)
 
+
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block" ><br/>
@@ -15,5 +16,7 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVictorCruz&size_weight=0.5&count_weight=0.5)
 
 ### Apaixonado por tecnologia!!!
