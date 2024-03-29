@@ -19,4 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVictorCruz&size_weight=0.5&count_weight=0.5)
 
+
+![octocat-1711745247355](https://github.com/RVictorCruz/RVictorCruz/assets/111712206/dfc0bc56-0a0e-4b42-8514-68a799a07666)
+
 ### Apaixonado por tecnologia!!!
